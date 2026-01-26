@@ -1,3 +1,13 @@
-# Ingenieria-Informatica-2026_1
-Aquí subo Mis tareas que hago de mi curso de ingeniería informática, abierto al público
-Me llamo Sebastián Emiliano Alonso López
+# Ingeniería Informática 2026-1
+
+Este repositorio contiene las prácticas y ejercicios realizados
+durante el curso de Ingeniería Informática.
+
+Lenguaje utilizado:
+- Java
+
+Entorno:
+- Eclipse IDE
+
+Autor:
+- Sebastián Emiliano Alonso López
