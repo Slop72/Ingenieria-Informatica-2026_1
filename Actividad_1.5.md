@@ -58,7 +58,4 @@ Para ello, se requiere:
 5. Finalizar cuando el usuario adivine el número.
 6. Mostrar un mensaje de éxito.
 
----
-
-## Algoritmo completo (pseudocódigo)
 
